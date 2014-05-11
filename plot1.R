@@ -1,5 +1,5 @@
 # Set the working directory and place the text file in that directory
-setwd("C:/Users/rgarg/Desktop/MyWork/OKEDU/ExploratoryDataAnalysis/workdir")
+setwd("C:/Users/rgarg/Desktop/workdir")
 
 # Estimate the memory requirement by loading only first 5 rows using nrows
 # and object.size function. Multiple size value by 2075259 and dividing by 5
